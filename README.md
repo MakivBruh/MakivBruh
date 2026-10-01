@@ -12,3 +12,18 @@
 </div>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=makivbruh&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🌠 Skills Language
+<div align="center">
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,html,css,javascript,typescript,cpp,python" />
+</a>
+</div>
+
+## 🌠 Currently Learning
+<div align="center">
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,laravel,blender" />
+</a>
